@@ -33,3 +33,6 @@ we should be able to access the WordPress site by visiting http://EC2_publicip i
 
 Fill the required details and login into it.
 
+![image](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/9516bf05-4044-42c8-8346-15b9f28c4858)
+
+
