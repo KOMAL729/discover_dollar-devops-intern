@@ -25,4 +25,7 @@ After running above command once logout and ssh again into your EC2 machine to a
 ![img 9 git](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/21d3744b-2672-4102-867f-eef9ff16ac69)
 
 The file structure is currently as follows:
+![img 10 git](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/caea8425-aeef-4b1a-b16f-4c7690490d01)
+
+we should be able to access the WordPress site by visiting http://EC2_publicip in your web browser.
 
