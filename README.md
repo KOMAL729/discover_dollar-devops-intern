@@ -29,3 +29,7 @@ The file structure is currently as follows:
 
 we should be able to access the WordPress site by visiting http://EC2_publicip in your web browser.
 
+![img 11 git](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/4ff2cb88-5a45-444f-8975-a1eaf1afe378)
+
+Fill the required details and login into it.
+
