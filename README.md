@@ -16,3 +16,6 @@ Now, run the terraform apply command is used to apply changes to your infrastruc
 
  Now, go to the EC2 instance that you have created
 ![img 6 git](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/f7f9a685-cdf4-4552-9667-f63c5b36f54a)
+![img 7 git](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/270c660e-9d9f-472d-ba5a-c4c44e911dff)
+
+After installing Docker
