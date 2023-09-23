@@ -13,3 +13,6 @@ Now, run the terraform apply command is used to apply changes to your infrastruc
 
 
 ![img 5 git](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/b58cdde9-a32f-4491-9df8-2361f33ed44e)
+
+ Now, go to the EC2 instance that you have created
+![img 6 git](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/f7f9a685-cdf4-4552-9667-f63c5b36f54a)
