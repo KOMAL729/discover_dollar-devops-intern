@@ -7,3 +7,6 @@ install the plugins that are required to create and manage the resources that ar
 
 run terraform plan command it is used to preview the changes that will be made to your infrastructure.
 ![image](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/8ccb43be-81db-45c6-bbdd-e2079ed2e048)
+
+Now, run the terraform apply command is used to apply changes to your infrastructure.
+![img 4 git](https://github.com/KOMAL729/discover_dollar-devops-intern/assets/72347182/9a4be0fa-3f07-4557-8789-ff762914856f)
